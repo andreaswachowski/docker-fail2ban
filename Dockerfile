@@ -18,6 +18,7 @@ RUN dnf install -y \
     ssmtp \
     2to3 \
     tzdata \
+    vim \
     wget \
     unzip \
     whois \
